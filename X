@@ -1,0 +1,29 @@
+[33mcommit a043181e0fd510a5287309911aa7f020229aff1c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: praveen <neelurupraveenkumarreddy@gmail.com>
+Date:   Sun Mar 19 21:41:39 2023 +0530
+
+    text added to qwality
+
+[33mcommit a43a7178fa48d17a24708b447572f73141861606[m
+Author: praveen <neelurupraveenkumarreddy@gmail.com>
+Date:   Sun Mar 19 21:40:34 2023 +0530
+
+    qwality.txt added
+
+[33mcommit 9a7d51b3bfb609352d6cd310794bcd48ace569d5[m
+Author: praveen <neelurupraveenkumarreddy@gmail.com>
+Date:   Sun Mar 19 21:38:47 2023 +0530
+
+    trying.txt added
+
+[33mcommit d30ad39e690faf1ecc6a509336e2d4d8d400739d[m
+Author: praveen <neelurupraveenkumarreddy@gmail.com>
+Date:   Sun Mar 19 21:37:26 2023 +0530
+
+    hotel.txt added
+
+[33mcommit ac7a26148326b3e14e3991ecfa0cbe8a2b7d0afb[m
+Author: praveen <neelurupraveenkumarreddy@gmail.com>
+Date:   Sun Mar 19 19:15:21 2023 +0530
+
+    names.txt file added
